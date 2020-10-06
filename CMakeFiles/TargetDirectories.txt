@@ -1,0 +1,2 @@
+/home/nika/calculator/CMakeFiles/rebuild_cache.dir
+/home/nika/calculator/CMakeFiles/edit_cache.dir
